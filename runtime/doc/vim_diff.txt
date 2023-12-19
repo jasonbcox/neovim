@@ -668,6 +668,7 @@ Options:
     - for `backspace=1` set `backspace=indent,eol`
     - for `backspace=2` set `backspace=indent,eol,start` (default behavior in Nvim)
     - for `backspace=3` set `backspace=indent,eol,nostop`
+
   *'balloondelay'* *'bdlay'*
   *'ballooneval'* *'beval'* *'noballooneval'* *'nobeval'*
   *'balloonexpr'* *'bexpr'*
